@@ -1,0 +1,19 @@
+-- insert into restaurant values
+--   (default, 'Chipotle', 'mexican', '123 peachtree st');
+--
+-- insert into restaurant values
+--   (default, 'Naan-stop', 'indian', '456 peachtree st' );
+--
+-- insert into restaurant values
+--   (default, 'CraftSteak', 'steak', 'mgm grand, las vegas');
+--
+--   insert into restaurant values
+--     (default, 'Chik-fil-a', 'fast-food', '789 peachtree st');
+--
+-- insert into reviewer values
+-- -- (default, 'siskel', 'siskel@gmail.com', 7);
+--
+-- insert into review values (default, 1, 4, 35);
+--
+-- insert into review values (default, 1, 2, 32, 'review chip', 'e-coli +');
+--
