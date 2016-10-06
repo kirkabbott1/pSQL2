@@ -17,3 +17,22 @@
 --
 -- insert into review values (default, 1, 2, 32, 'review chip', 'e-coli +');
 --
+-- insert into reviewer values
+--   (default, 'ebert', 'ebert@heaven.com', 7);
+--
+-- insert into restaurant values
+--   (default, 'Popeyes', 'fast-food', '789 garbage st');
+--
+--
+-- insert into restaurant values
+--   (default, 'Outback', 'steak', '789 notaknife drive');
+--
+--
+-- insert into restaurant values
+--   (default, 'Cheif running pants''s', 'indian', '1 native st');
+--
+-- insert into review values
+--   (default, 2, 1, 41, 'review outback', 'that''s not a steak');
+--
+-- insert into review values
+--   (default, 2, 2, 40, 'review popeyes', 'tastes like chicken');
